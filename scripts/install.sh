@@ -1,6 +1,6 @@
 #!/bin/bash
 
-git clone https://github.com/HDInnovations/UNIT3D-Community-Edition.git www
+git clone https://github.com/BatBunker/UNIT3D-Community-Edition.git www
 cp unit3d/.env www
 
 docker compose stop
